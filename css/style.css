@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.top_section {
+    background-color: darkblue;
+    height: 40px;
+    width: auto;
+ } 
+.top_section .top_txt {
+    color: white;
+    text-align: center;
+    padding-top: 0.9%;
+    font-size: 15px;
+    font-family: 'Kanit', sans-serif;
+}
